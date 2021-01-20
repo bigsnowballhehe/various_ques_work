@@ -4,3 +4,4 @@
 
 
 * https://www.cnblogs.com/webarn/p/6814402.html 动态加载script标签
+* https://segmentfault.com/a/1190000009058572  想无的多语言
