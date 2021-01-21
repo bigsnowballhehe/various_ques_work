@@ -1,0 +1,9 @@
+1.如何判断滚动呢？
+
+const elOffsetTop = document.getElementById("install").offsetTop;
+                const docScrollTop = document.documentElement.scrollTop - 25;
+                if (
+                    elOffsetTop >= docScrollTop &&
+                    elOffsetTop < docScrollTop + window.innerHeight
+
+                )
